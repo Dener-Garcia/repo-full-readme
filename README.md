@@ -12,8 +12,9 @@ Quero simplificar sua vida na hora de documentar um projeto, o readme é algo fu
 
 ### Front-end
 
-[<img src="public/assets/screenshot-desktop.jpg" width="300px" />](readme-front-end/front-end-1.md)
-[<img src="public/assets/screenshot-desktop.jpg" width="300px" />](readme-front-end/front-end-1.md)[<img src="public/assets/screenshot-desktop.jpg" width="300px" />](readme-front-end/front-end-1.md)
+🖥️ Modelo 1                                                   | 🖥️ Modelo 2                                            | 🖥️ Modelo 2   
+:----------:                                                  | :--------------:                                            | :--------------: 
+[<img src="public/assets/front-end-1.png" width="300px" />]   | [<img src="public/assets/front-end-2.png" width="300px" />] | [<img src="public/assets/front-end-3.png" width="300px" />]
 
 ## 🎲 Contribua para o projeto
 
