@@ -8,15 +8,20 @@ Disponibilizar para todos de forma acessível vários modelos de readme para des
 
 Quero simplificar sua vida na hora de documentar um projeto, o readme é algo fundamental para as pessoas entenderem e até colaborar com seus projetos no Github.
 
-## Modelos
+## 🖥️ Modelos
 
 ### Front-end
 
-
+[<img src="public/assets/screenshot-desktop.jpg" width="300px" />](readme-front-end/front-end-1.md)
+[<img src="public/assets/screenshot-desktop.jpg" width="300px" />](readme-front-end/front-end-1.md)[<img src="public/assets/screenshot-desktop.jpg" width="300px" />](readme-front-end/front-end-1.md)
 
 ## 🎲 Contribua para o projeto
 
 Se você gostaria de compartilhar um modelo de reamde clone esse repositório e faça um pull request do seu modelo, para ser aprovado ele precisa estar estruturado de forma similar a sessão de "🗃️ Estrutura do readme"
+
+# 🥰 Ajude o projeto
+
+Se você puder contribuir com qualquer valor para manter esse repositório sempre ativo clic [Aqui](https://buy.stripe.com/dR6bJcbq11LSaNq6op)
 
 ## 🔎 Como usar
 
@@ -40,6 +45,8 @@ Basicamente nossa estrutura consiste em:
     - Como rodar seu projeto, muita atenção nesse ponto, pense em alguém que não domine totalmente aquela tecnologia para fazer esse passo a passo.
 - Tecnologías Utilizadas
     - Coloque cada stack que você utilizou no seu projeta, use o [Dev Icons](https://devicon.dev/) para pegar as imagens das suas tecnologias.
+- Status do projeto
+    - Coloque as etapas pendentes e as que estão prontas do seu projeto ou divida em etapas como: "Design", "Desenvolvimento", "Testes", "Deploy".
 - Contribua com esse projeto
     - Caso seu projeto precise de contribuição financeira você pode usar esse espaço para explicar como as pessoas podem te ajudar a continuar seu projeto.
 - Aprendizados
@@ -49,7 +56,7 @@ Basicamente nossa estrutura consiste em:
 -  Vamos nos conectar?
     - Compartilhe suas redes sociais para as pessoas te encontrarem.
 
-    ## 👨‍💻 Onde nossos readme foram usados
+    ## 👨‍💻 Quem usou nossos templates
 
     Faca um pull request nesse repositório e compartilhe o seu nome, tipo de projeto e o link para um repositório que utiliza um dos nossos templates.
 

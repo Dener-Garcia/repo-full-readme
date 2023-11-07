@@ -2,12 +2,14 @@
 
 Uma breve descrição do que se trata do seu projeto e o que ele faz e o link caso disponível para acessar em produção.
 
-__Você pode ver esse projeto bem [Aqui](https://www.seuSite.com.br)__
+__Você pode ver esse projeto bem  [Aqui](https://www.seuSite.com.br)__
 
 
- 🖥️ Versão web                                                    |  📱 Versão Mobile
-:----------:                                                      |  :--------------:
-<img src="../public/assets/screenshot-desktop.jpg" width="100%"/> |  <img src="../public/assets/screenshot-mobile.jpg" width="100%"/>
+🖥️ Pagina 1 Home                                      | 🖥️ Pagina 2 Sobre                                     | 🖥️ Pagina 3 Serviços   
+| :----------:                                        | :--------------:                                      | :--------------:
+<img src="../public/assets/screenshot-desktop.jpg" /> | <img src="../public/assets/screenshot-desktop.jpg" /> | <img src="../public/assets/screenshot-desktop.jpg" />     
+🖥️ Pagina 4 Portfolio                                 | 🖥️ Pagina 5 Blog                                      | 🖥️ Versão 6 Contato   
+<img src="../public/assets/screenshot-desktop.jpg" /> | <img src="../public/assets/screenshot-desktop.jpg" /> | <img src="../public/assets/screenshot-desktop.jpg" />
 
 ## ⚙️ Funcionalidades
 
