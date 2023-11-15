@@ -61,5 +61,5 @@ Basicamente nossa estrutura consiste em:
 
     Faca um pull request nesse repositório e compartilhe o seu nome, tipo de projeto e o link para um repositório que utiliza um dos nossos templates.
 
- [Dener Garcia - Front-end](https://github.com/Dener-Garcia/landing-page-lit-academy-reactJS)
- [Gabriel Moscarde - Python Application - PyProductivity](https://github.com/Moscarde/PyProductivity)
+- [Dener Garcia - Front-end](https://github.com/Dener-Garcia/landing-page-lit-academy-reactJS)
+- [Gabriel Moscarde - Python Application - PyProductivity](https://github.com/Moscarde/PyProductivity)
